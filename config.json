@@ -1,0 +1,6 @@
+{
+  "poloniex": {
+    "apiKey": "yourApiKey",
+    "apiSecret": "yourApiSecret"
+  }
+}

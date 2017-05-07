@@ -1,0 +1,5 @@
+service_identity
+autobahn[asyncio]
+asyncio
+pymongo
+twisted
